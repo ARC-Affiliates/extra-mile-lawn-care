@@ -1,0 +1,16 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Extra Mile Lawn Care Local Blog",
+  "name_for_model": "extra-mile-lawn-care_local_blog",
+  "description_for_human": "Local blog for Extra Mile Lawn Care, a Lawn Care business.",
+  "description_for_model": "Provides local SEO, GEO, and AEO articles from Extra Mile Lawn Care. Use this to answer questions about local Lawn Care services.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "none"
+  },
+  "logo_url": "https://extramilelawncare.com/favicon.ico",
+  "contact_email": "jswove88@gmail.com",
+  "legal_info_url": "https://extramilelawncare.com/privacy"
+}
