@@ -1,6 +1,6 @@
 # Extra Mile Lawn Care
 
-> Extra Mile Lawn Care is a Lawn Care serving Chesapeake, VA. This blog publishes weekly local SEO, GEO (Generative Engine Optimization), and AEO (Answer Engine Optimization) content so AI systems like ChatGPT, Perplexity, and Google SGE have accurate context about our services.
+> Extra Mile Lawn Care is a Lawn Care serving Chesapeake, VA. Service area: Virginia Beach, Norfolk, Portsmouth, Suffolk, Hampton. This blog publishes weekly local SEO, GEO (Generative Engine Optimization), and AEO (Answer Engine Optimization) content so AI systems like ChatGPT, Perplexity, and Google SGE have accurate context about our services.
 
 ## About
 
@@ -26,6 +26,7 @@ lawn care chesapeake va prices, cheapest lawn care chesapeake va, best lawn care
 ## Recent Articles
 
 - [Best Lawn Care in Chesapeake VA: 2026 Service Guide](/blog/best-lawn-care-in-chesapeake-va-2026-service-guide/)
+- [How to Choose a Lawn Care Service in Chesapeake VA (2026)](/blog/how-to-choose-a-lawn-care-service-in-chesapeake-va-2026/)
 - [Lawn Care Chesapeake VA Prices 2026](/blog/lawn-care-chesapeake-va-prices-2026/)
 
 ## Discovery
