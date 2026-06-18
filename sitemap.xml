@@ -2,11 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://localblog.extramilelawncare.com/blog/</loc>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://localblog.extramilelawncare.com/faq/</loc>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -27,6 +29,7 @@
   </url>
   <url>
     <loc>https://localblog.extramilelawncare.com/glossary/</loc>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -143,6 +146,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://localblog.extramilelawncare.com/blog/lawn-mowing-vs-landscaping-in-chesapeake-va-key-differences/</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://localblog.extramilelawncare.com/blog/what-are-the-most-common-lawn-care-mistakes-in-chesapeake-va/</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
@@ -161,8 +170,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://localblog.extramilelawncare.com/blog/lawn-mowing-vs-landscaping-in-chesapeake-va-key-differences/</loc>
-    <lastmod>2026-06-15</lastmod>
+    <loc>https://localblog.extramilelawncare.com/blog/how-do-you-prepare-your-chesapeake-va-lawn-for-spring-2026/</loc>
+    <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
